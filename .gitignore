@@ -1,0 +1,16 @@
+# Ignorar entorno virtual
+venv/
+Male and Female face dataset/
+
+# Cachés y archivos temporales
+__pycache__/
+*.pyc
+
+# Modelos pesados
+*.keras
+*.ckpt
+*.tflite
+
+# Configuraciones de sistema
+.DS_Store
+
